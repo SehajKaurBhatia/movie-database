@@ -4,7 +4,8 @@
   "description": "A movie description app",
   "main": "movie.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "build": "npm ci && npm run build"
   },
   "author": "Sehaj Bhatia",
   "license": "ISC",
